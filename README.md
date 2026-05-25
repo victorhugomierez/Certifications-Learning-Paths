@@ -3,7 +3,7 @@
 Entrenamiento técnico autónomo y resolución de laboratorios prácticos orientados a la ciberseguridad ofensiva:
 
 ### 🇪🇸 Español
-* 🏆 **Jr. Penetration Tester (PT1)** | Certificación Profesional Completada
+* 🏆 **Jr. Penetration Tester** | Certificación Profesional Completada
 * ✅ **Jr Penetration Tester** | Ruta de Aprendizaje Práctica Completada
 * ✅ **Web Fundamentals** | Fundamentos de Explotación Web Completados
 * ✅ **Web Application Pentesting** | Laboratorios de Pentesting Web Completados
